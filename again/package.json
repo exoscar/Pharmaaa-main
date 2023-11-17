@@ -9,8 +9,8 @@
     "deploy": "yarn build && npx thirdweb@latest upload dist"
   },
   "dependencies": {
-    "@thirdweb-dev/react": "^3",
-    "@thirdweb-dev/sdk": "^3",
+    "@thirdweb-dev/react": "^4.1.7",
+    "@thirdweb-dev/sdk": "^4.0.14",
     "apexcharts": "^3.44.0",
     "axios": "^1.5.1",
     "chart.js": "^4.4.0",
